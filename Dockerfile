@@ -13,6 +13,7 @@ COPY . /src
 
 # Install app and dependencies into /src
 RUN cd /src; npm install
+RUN echo "HELLO WORLD"
 
 EXPOSE 8080
 
