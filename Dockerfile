@@ -1,3 +1,4 @@
+# Blank comment
 FROM centos:centos6
 
 MAINTAINER austinhuminski@gmail.com
